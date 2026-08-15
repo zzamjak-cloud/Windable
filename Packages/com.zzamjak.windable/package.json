@@ -1,0 +1,25 @@
+{
+  "name": "com.zzamjak.windable",
+  "displayName": "Windable",
+  "version": "1.0.0",
+  "unity": "6000.0",
+  "description": "노이즈 텍스처 기반 바람 효과 컴포넌트입니다. SpriteRenderer와 UI Graphic을 자동 감지하여 동일한 셰이더로 처리하며, Sprite Atlas UV 보정과 ClipRect(ScrollView) 클리핑을 지원하는 모바일 최적화 이펙트 패키지입니다.",
+  "documentationUrl": "https://github.com/zzamjak-cloud/Windable",
+  "changelogUrl": "https://github.com/zzamjak-cloud/Windable/blob/main/CHANGELOG.md",
+  "license": "MIT",
+  "author": {
+    "name": "zzamjak",
+    "url": "https://github.com/zzamjak-cloud"
+  },
+  "dependencies": {
+    "com.unity.ugui": "2.0.0"
+  },
+  "keywords": [
+    "Wind",
+    "Effect",
+    "Sprite",
+    "UI",
+    "Shader",
+    "Noise"
+  ]
+}
